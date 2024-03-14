@@ -4,9 +4,9 @@
     /* 基础文本颜色 */
     --bbc-text-base-color: #4c4948;
     /* 标签颜色 */
-    --bbc-label-color: #FF9843;
+    --bbc-label-color: #8eab64;
     /* 下划线、背景之类的颜色 */
-    --bbc-primary-color: #425aef;
+    --bbc-primary-color: #D69B54;
   }
 
   * {
